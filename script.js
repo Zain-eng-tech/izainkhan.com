@@ -337,7 +337,7 @@ window.addEventListener('pageshow', function (e) {
     if (!a) return;
     var href = a.getAttribute('href');
     if (!href || href.charAt(0) === '#' || /^[a-z]+:/i.test(href)) return;
-    if (/\.html?(?:[?#]|$)/i.test(href)) prefetch(href);
+    if (/\.html?(?:[?#]|$)/i.test(href) || /^\/[a-z0-9-]*\/?(?:[?#]|$)/i.test(href)) prefetch(href);
   }
   document.addEventListener('mouseover', fromEvent, { passive: true });
   document.addEventListener('touchstart', fromEvent, { passive: true });
