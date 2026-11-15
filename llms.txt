@@ -1,0 +1,54 @@
+# Muhammad Zain Ul Abideen
+
+> Medical Laboratory Scientist, Computational Biologist and Molecular Modeler from Lahore, Pakistan. BS Medical Laboratory Sciences, The University of Lahore (June 2026). Research: molecular docking and molecular dynamics on the gut-brain axis (NK1R receptor). First-author publication in the Pakistan Journal of Biochemistry and Biotechnology (2026). Member, Global Scholars Network (GSN) (Higher Education Commission, Pakistan). Seeking a fully funded MS by Research position and research collaborations.
+
+## Identity
+- Name: Muhammad Zain Ul Abideen (M. Zain Ul Abideen)
+- Location: Lahore, Punjab, Pakistan
+- Email: zkhantagga@gmail.com
+- Phone / WhatsApp: +92 330 2361100
+- ORCID: https://orcid.org/0009-0004-1508-3088
+- GSN profile: https://gsn.hec.gov.pk/profile/01kwgq215k5nctqsypyqmzr4sf
+- Website: https://izainkhan.com/
+
+## Research
+- Final-year thesis (2025-2026): In silico molecular docking and dynamics simulation of gut-derived postbiotic metabolites against the human neurokinin-1 receptor (NK1R, PDB 6HLO). 52 metabolites screened with AutoDock Vina against four approved NK1R antagonists as benchmarks; lead candidates Urolithin B and a benzofuran-2-one derivative; validation with DFT, 100 ns molecular dynamics, MM-PBSA and MM-GBSA.
+- Publication (first author): Gene Therapy Approaches for Treating Childhood Leukemia: Current Progress and Future Directions. Pakistan Journal of Biochemistry and Biotechnology 7(1): 65-79 (2026). https://pjbb.wum.edu.pk/index.php/ojs/article/view/314
+- Peer reviewer for the Pakistan Journal of Biochemistry and Biotechnology (2026).
+- Manuscripts in the journal pipeline: microscopic evaluation of urine (hematuria and pyuria vs bacterial culture); clinical assessment and early diagnostic approaches for dengue virus infection.
+- Docking videos (screen recordings of the workflow): https://izainkhan.com/videos
+
+## Skills
+- Computational: molecular docking (AutoDock Vina), molecular dynamics (GROMACS), DFT, MM-PBSA/MM-GBSA, SwissADME, ProTox, pkCSM, STRING, Cytoscape, SPSS
+- Laboratory: hematology, biochemistry and microbiology diagnostics, HIMS/LIMS
+
+## Experience
+- Medical Laboratory Technologist, Al Rehman Clinical Laboratory, Rajanpur (2026)
+- Laboratory internships: Saleem Memorial Hospital Lahore; Social Security Hospitals, Lahore
+- HR Assistant, Physician Meds (2026)
+
+## Certificates (15)
+Full list with images: https://izainkhan.com/certificates
+- Hands-on Workshop on Capacity Building of Medical Lab Professionals on Biosafety and Biosecurity, Superior University, Lahore
+- Small Molecules to Medicine: Molecular Docking and CADD Workshop, Rashid Latif Medical College (StuCon, 2026)
+- Pakistan-China Conference on Food-Medicine Homology, OIC-COMSTECH (2026)
+- Certificate Course on NMR Spectroscopy, OIC-COMSTECH (2026)
+- 11th Annual BSI International Remote Conference (2026)
+- GLQI Workshop, ADLM ACCENT, 6 CE credits (2026)
+- Foundations of SPSS, OIC-COMSTECH (2026)
+- Soft Skills Training, ICMPD and OEC (2026)
+- EF SET English Certificate, C1 Advanced, 64/100 (2025)
+- Molecular Techniques Micro Credential, University of Lahore (2025)
+- 4th International Virtual Mental Health Conference (2025)
+- Techniques in Biochemistry, Molecular Biology and Genetics, European Open University (2025)
+- BLS / CPR and AED, American Health Care Academy (valid to July 2027)
+- ICAAHS 24, University of Lahore, Participant (2024)
+- ICAAHS 22, University of Lahore, Organizer (2022)
+
+## Key pages
+- Home: https://izainkhan.com/
+- Research: https://izainkhan.com/research
+- Docking videos: https://izainkhan.com/videos
+- Resume: https://izainkhan.com/resume
+- Certificates: https://izainkhan.com/certificates
+- Contact: https://izainkhan.com/contact
